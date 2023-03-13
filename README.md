@@ -40,4 +40,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jai-gaur-210&show_icons=true&locale=en" alt="jai-gaur-210" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-gaur-210&" alt="jai-gaur-210" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prashantuchiha&theme=radical)](https://git.io/streak-stats)
+
